@@ -47,13 +47,13 @@ Also a written report of two obseravble trends based on the data.
 
 ## Summary Analysis
 
-    In this dataset, there are 15 schools total in the district and 8 of them are charter schools. Comparing the results of top and lowest performing schools in the district, the top 5 schools with the highest overall passing percentages are charter schools. According to the tables, students scores are not affected by the amount of money spent on per student. Schools with the highest overall passing percentage have a lower budget spent on each student. Schools who have lower percentage in overall passing scores have a higher budget spent on each student. Schools with a budget of $630 or greater correlates schools with a large school size. 
+    In this dataset, there are 15 schools total in the district and 8 of them are charter schools. Comparing the results of top and lowest performing schools in the district, the top 5 schools with the highest overall passing percentages (96% and above) are charter schools. According to the tables, students scores are not affected by the amount of money spent on per student. Schools with the highest overall passing percentage have a lower budget of $630 or less spent on each student. Schools who have lower percentage in overall passing scores (53% or less) have a higher budget spent on each student. Schools with a budget of $630 or greater correlates schools with a larger school sizes with students 3,000 and up. 
 
 ![Top_5_and_Lowest5](PyCitySchools/Images/topandlowestperforming.png)
 ![Scores_SchoolSpending](PyCitySchools/Images/school_spending_scores.png) 
 
 
-    Out of 15 schools, there are a total of approximately 39,000 students attending. In reference to 'Scores by School Size' datatable, it is observed that schools with a greater student count have scores lower in percentage of overall passing. Compared to schools with a lower student count, these students score higher overall in both math and reading subjects. Charter schools have a lower student count. In conclusion, in this school district, charter schools with a smaller school size will score higher overall. 
+    Out of 15 schools, there are a total of approximately 39,000 students attending. In reference to 'Scores by School Size' datatable, it is observed that schools with a greater student count (2000 or greater students) have scores lower in percentage of overall passing (less than 59%). Compared to schools with a lower student count, these students score higher overall in both math and reading subjects (96%). Charter schools commonly have a lower student count for 2000 students or less. In conclusion, in this school district, charter schools with a smaller school size will score higher overall. 
 
 ![Scores_and_School_Sizes](PyCitySchools/Images/scores_sizes.png)
 ![School_Size](PyCitySchools/Images/school_size.png)
